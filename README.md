@@ -9,6 +9,7 @@ The white point comes out to 6600k.
 ## Usage
 
 `MAX` is the upper limit of the table, I've set it to 10 000k for the sake of brevity but it works up until 40 000k.
+
 `STEP` is the increase in temperature after each iteration, increase or decrease based on the granularity you want
 
 ## TO-DO (Potentially)
